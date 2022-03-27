@@ -4,7 +4,7 @@
 
 Bytebank é uma aplicação web que simular serviços bancários simples, como transferências e a exibição de estratos bancários de forma dinâmica.
 
-Esse projet foi feito a partir do primeiro curso da formação em Angular da[Alura Cursos Online](https://www.alura.com.br/).
+Esse projet foi feito a partir do primeiro curso da formação em Angular da [Alura Cursos Online](https://www.alura.com.br/).
 
 Esses são os previews do projeto.
 
@@ -13,6 +13,8 @@ Esses são os previews do projeto.
 ![bytebank preview](src/readme/print_bytebank_2.png)
 
 Esse projeto foi gerado utilizando o [Angular CLI](https://github.com/angular/angular-cli) versão 10.1.6.
+
+Para a simulação de uma API foi utilizado o [json-server](https://www.npmjs.com/package/json-server) instalado globalmente na máquina, juntamente com o arquivo `db.json` localizado em `.\dados\db.json`.
 
 ### Servidor de desenvolvimento
 
@@ -35,6 +37,8 @@ This is a preview of the project.
 ![bytebank preview](src/readme/print_bytebank_2.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+
+With the objective of simulating an API was used the package [json-server](https://www.npmjs.com/package/json-server), globbally installed in the machine, and the file `db.json` located at `.\dados\db.json`.
 
 ### Development server
 
