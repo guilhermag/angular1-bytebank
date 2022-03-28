@@ -2,7 +2,7 @@
 
 ## Português
 
-Bytebank é uma aplicação web que simular serviços bancários simples, como transferências e a exibição de estratos bancários de forma dinâmica.
+Bytebank é uma aplicação web que simula serviços bancários simples, como transferências e a exibição de estratos bancários de forma dinâmica.
 
 Esse projet foi feito a partir do primeiro curso da formação em Angular da [Alura Cursos Online](https://www.alura.com.br/).
 
